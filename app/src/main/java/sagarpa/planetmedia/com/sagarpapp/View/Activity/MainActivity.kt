@@ -1,7 +1,8 @@
-package sagarpa.planetmedia.com.sagarpapp
+package sagarpa.planetmedia.com.sagarpapp.View.Activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import sagarpa.planetmedia.com.sagarpapp.R
 
 class MainActivity : AppCompatActivity() {
 
